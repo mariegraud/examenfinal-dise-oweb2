@@ -1,0 +1,105 @@
+</section></section></section>:root{
+	--f7-theme-color:#5079FE;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #5079FE; /*navbar link*/
+	--f7-navbar-text-color:#7C899F;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+.page-content{
+	text-align: center;
+	font-family: 'manrope';
+	font-size: 25px;
+}
+.page-content-detalle{
+	text-align: center;
+	font-family: 'manrope';
+	font-size: 25px;
+}
+.page-content-prod{
+	text-align: center;
+	font-family: 'manrope';
+	font-size: 25px;
+}
+
+.page-content h3{
+	text-align: center;
+	font-family: 'manrope';
+	font-size: 35px;
+}
+
+.img-postre{
+	display: block;
+	max-width: 100%;
+}
+
+.perfil{
+	width: 50px;
+	height:50px;
+	border-radius: 50px;
+}
+
+.block-title-large{
+	font-weight: 90%;
+	text-align: center;
+}
+
+.card-postre{
+	background-color: #fff;
+	height: 60%;
+	width:100%;
+	border-radius: 40px;
+	
+}
+
+.cheesecake{
+	display: block;
+	max-width: 100%;
+}
+
+.vaso{
+	display: block;
+	max-width: 100%;
+}
+
+.img-banprod{
+	display: block;
+	max-width: 100%;
+}
+
+.choco{
+	width: 130px;
+	height:110px;
+	border-radius: 50px;
+}
+
+.crepa{
+	width: 130px;
+	height:110px;
+	border-radius: 50px;
+}
+
+.card #squares{
+background-color: #F6C3C9;
+	width: 100%;
+	height: 90%;
+	border-radius: 20px;
+	padding-bottom: 1%;
+}
+
+.button-fill-comp{
+	background-color: #000;
+	color: #fff;
+}
+
+.pastelcompleto{
+	display: block;
+	max-width: 100%;
+}
+
+.ppfoto{
+	border-radius: 150px;
+}
